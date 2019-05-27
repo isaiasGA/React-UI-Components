@@ -7,6 +7,7 @@ const CardConteiner = () => {
     return (
         <div className='card'>
           <CardBanner /> 
+          <CardContent />
         </div>
     )
 }
